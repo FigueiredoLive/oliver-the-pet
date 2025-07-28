@@ -1,0 +1,10 @@
+body { font-family: sans-serif; color: #333; margin: 0; padding: 0; }
+header { text-align: center; background: #f5f1e8; padding: 20px; }
+header img { width: 150px; height: 150px; object-fit: cover; border-radius: 50%; }
+.info { padding: 15px; }
+.info h2 { border-bottom: 1px solid #ccc; padding-bottom: 5px; }
+ul { list-style: none; padding: 0; }
+ul li { margin: 5px 0; }
+footer { text-align: center; padding: 10px; background: #eee; font-size: 0.9em; }
+a { color: #0066cc; text-decoration: none; }
+a:hover { text-decoration: underline; }
