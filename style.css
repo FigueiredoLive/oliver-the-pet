@@ -3,7 +3,7 @@ header {text-align: center; background: #f5f1e8; padding: 60px; }
 .circle-wrapper {
   width: 350px;
   height: 350px;
-  background: #dd7c2c;
+  background: #00cc49;
   border-radius: 50%;
   overflow: hidden;
   display: flex;
